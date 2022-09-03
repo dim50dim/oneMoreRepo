@@ -1,0 +1,1 @@
+const t9 = (str) => str.trim(); 
